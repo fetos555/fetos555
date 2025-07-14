@@ -63,6 +63,9 @@ const myTools = {
 ![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetos555&theme=nord_dark)  
 
   </a>
+  ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetos555&theme=nord_dark)  
+![Repos by Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fetos555&theme=nord_dark)  
+![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetos555&theme=nord_dark)  
 
 ---
 
