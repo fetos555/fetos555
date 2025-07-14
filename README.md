@@ -53,14 +53,16 @@ const myTools = {
 - 📬 Reach me on Telegram: [Fady Milad](https://t.me/fadymilad)
 - 🧠 Always learning something new!
 
+
+## 📊 GitHub Stats
+  
 <div align="center">
   <a href="https://github.com/fady-milad">
-    <img src="[https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetos555&theme=nord_dark)" width="32.5%">
-    <img src="[https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fetos555&theme=nord_dark)" width="32.5%">
-    <img src="[https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetos555&theme=nord_dark)" width="32.5%">
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetos555&theme=nord_dark)  
+![Repos by Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fetos555&theme=nord_dark)  
+![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetos555&theme=nord_dark)  
+
   </a>
-
-
 
 ---
 
