@@ -60,10 +60,12 @@ const myTools = {
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
   </a>
 
-  <details>
-    <summary>📊 More Stats</summary>
-    <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-  </details>
+  ## 📊 GitHub Stats
+
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetos555&theme=nord_dark)  
+![Repos by Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fetos555&theme=nord_dark)  
+![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetos555&theme=nord_dark)  
+
 
 ---
 
